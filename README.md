@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Safwan</h2>
 
-<h4>I'm Mohamed Safwan a Full Stack Web Developer and Flutter Developer.</h4>
+<h6>I'm Mohamed Safwan a Full Stack Web Developer and Flutter Developer.</h6>
 
 - 🔭 I’m currently working as a [Freelancer](https://www.freelancer.com/u/MohamedSafwan20)
 
@@ -37,9 +37,15 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>    </p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedSafwan20&show_icons=true&locale=en&theme=calm" alt="MohamedSafwan20" /></p>
 
+<br>
+
 [![Safwan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MohamedSafwan20&&theme=github)](https://github.com/MohamedSafwan20)
+
+<br>
 
 :mailbox: Reach me out!
 
