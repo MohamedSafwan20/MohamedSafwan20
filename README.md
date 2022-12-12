@@ -43,7 +43,7 @@
 
 <br>
 
-[![Safwan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MohamedSafwan20&&theme=github)](https://github.com/MohamedSafwan20)
+[![Safwan's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohamedSafwan20&theme=github-compact)](https://github.com/MohamedSafwan20)
 
 <br>
 
