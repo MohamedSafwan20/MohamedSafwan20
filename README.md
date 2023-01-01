@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **mohamedsafwan220@gmail.com**
 
-- ⚡ Best buddies **<img align="center" src="https://github.com/MohamedSafwan20/MohamedSafwan20/blob/main/google.png?raw=true" alt="stack overflow" height="20" width="20" /> and &nbsp;<img align="center" src="https://github.com/MohamedSafwan20/MohamedSafwan20/blob/main/stackoverflow.png?raw=true" alt="stack overflow" height="15" width="15" />**
-
 #### Top Technologies
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Angular Badge](https://img.shields.io/badge/-Angular-c40030?style=for-the-badge&labelColor=black&logo=angular&logoColor=c40030)](#) [![Nextjs Badge](https://img.shields.io/badge/-Nextjs-f2f2f2?style=for-the-badge&labelColor=black&logo=next.js&logoColor=f2f2f2)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-4b9341?style=for-the-badge&labelColor=black&logo=node.js&logoColor=4b9341)](#) [![Flask Badge](https://img.shields.io/badge/-Flask-eaeaea?style=for-the-badge&labelColor=black&logo=flask&logoColor=eaeaea)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-42c5ef?style=for-the-badge&labelColor=black&logo=flutter&logoColor=42c5ef)](#)
