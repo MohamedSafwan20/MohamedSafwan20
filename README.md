@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a [Freelancer](https://www.freelancer.com/u/MohamedSafwan20)
 
-- 💬 Ask me about **MERN, MEAN, FLASK, FLUTTER**
+- 💬 Ask me about **MERN, FLASK, FLUTTER**
 
 - :heart: Love to **Contribute** to projects
 
@@ -12,7 +12,7 @@
 
 #### Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Angular Badge](https://img.shields.io/badge/-Angular-c40030?style=for-the-badge&labelColor=black&logo=angular&logoColor=c40030)](#) [![Nextjs Badge](https://img.shields.io/badge/-Nextjs-f2f2f2?style=for-the-badge&labelColor=black&logo=next.js&logoColor=f2f2f2)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-4b9341?style=for-the-badge&labelColor=black&logo=node.js&logoColor=4b9341)](#) [![Flask Badge](https://img.shields.io/badge/-Flask-eaeaea?style=for-the-badge&labelColor=black&logo=flask&logoColor=eaeaea)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-42c5ef?style=for-the-badge&labelColor=black&logo=flutter&logoColor=42c5ef)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nextjs Badge](https://img.shields.io/badge/-Nextjs-f2f2f2?style=for-the-badge&labelColor=black&logo=next.js&logoColor=f2f2f2)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-4b9341?style=for-the-badge&labelColor=black&logo=node.js&logoColor=4b9341)](#) [![Flask Badge](https://img.shields.io/badge/-Flask-eaeaea?style=for-the-badge&labelColor=black&logo=flask&logoColor=eaeaea)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-42c5ef?style=for-the-badge&labelColor=black&logo=flutter&logoColor=42c5ef)](#)
 
 <h4>Languages and Tools</h4>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
