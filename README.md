@@ -41,7 +41,7 @@
 
 <br>
 
-[![Safwan's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohamedSafwan20&theme=rogue)](https://github.com/MohamedSafwan20)
+[![Safwan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedSafwan20&theme=rogue)](https://github.com/MohamedSafwan20)
 
 <br>
 
